@@ -1,0 +1,37 @@
+
+mailid or name already exist Mon Aug 21 2023 14:41:53 GMT+0530 (India Standard Time)
+Validation error: Invalid email address format.,
+Validation error: Password cannot be empty Mon Aug 21 2023 14:42:00 GMT+0530 (India Standard Time)
+Validation error: Password cannot be empty Mon Aug 21 2023 14:42:06 GMT+0530 (India Standard Time)
+Validation error: Name must contain only alphabetic characters and spaces.,
+Validation error: Invalid email address format.,
+Validation error: Password cannot be empty Mon Aug 21 2023 14:43:09 GMT+0530 (India Standard Time)
+WHERE parameter "mailid" has invalid "undefined" value Mon Aug 21 2023 14:43:35 GMT+0530 (India Standard Time)
+WHERE parameter "mailid" has invalid "undefined" value Mon Aug 21 2023 14:45:08 GMT+0530 (India Standard Time)
+Validation error: Name must contain only alphabetic characters and spaces.,
+Validation error: Invalid email address format.,
+Validation error: Password cannot be empty Mon Aug 21 2023 14:45:32 GMT+0530 (India Standard Time)
+User vignesh logged in successfully. Mon Aug 21 2023 15:03:01 GMT+0530 (India Standard Time)
+User vignesh logged in successfully. Mon Aug 21 2023 15:03:16 GMT+0530 (India Standard Time)
+User vijay status changed to inactive by admin Mon Aug 21 2023 15:04:28 GMT+0530 (India Standard Time)
+User vijay status changed to active by admin Mon Aug 21 2023 15:04:59 GMT+0530 (India Standard Time)
+New user with name ajay created Mon Aug 21 2023 15:18:21 GMT+0530 (India Standard Time)
+Validation error: Name must contain only alphabetic characters and spaces.,
+Validation error: Invalid email address format.,
+Validation error: Password cannot be empty Mon Aug 21 2023 15:18:36 GMT+0530 (India Standard Time)
+User vignesh logged in successfully. Mon Aug 21 2023 15:19:09 GMT+0530 (India Standard Time)
+Login failure: mailid not found.Provide valid mailid Mon Aug 21 2023 15:20:25 GMT+0530 (India Standard Time)
+User siva logged in successfully. Mon Aug 21 2023 15:22:03 GMT+0530 (India Standard Time)
+Token not exist . Provide valid token Mon Aug 21 2023 15:22:35 GMT+0530 (India Standard Time)
+API access denied for user Mon Aug 21 2023 15:22:54 GMT+0530 (India Standard Time)
+User vignesh logged in successfully. Mon Aug 21 2023 15:23:36 GMT+0530 (India Standard Time)
+All users details received by admin Mon Aug 21 2023 15:23:52 GMT+0530 (India Standard Time)
+ Details of siva send from login database Mon Aug 21 2023 15:24:24 GMT+0530 (India Standard Time)
+Cannot access details of other Users Mon Aug 21 2023 15:24:34 GMT+0530 (India Standard Time)
+API access denied for admin Mon Aug 21 2023 15:25:06 GMT+0530 (India Standard Time)
+User siva's mailid updated Mon Aug 21 2023 15:25:31 GMT+0530 (India Standard Time)
+Token has no validity.Provide valid token Mon Aug 21 2023 15:26:03 GMT+0530 (India Standard Time)
+API access denied for user Mon Aug 21 2023 15:26:23 GMT+0530 (India Standard Time)
+User vijay status changed to inactive by admin Mon Aug 21 2023 15:26:43 GMT+0530 (India Standard Time)
+User vijay status changed to active by admin Mon Aug 21 2023 15:26:49 GMT+0530 (India Standard Time)
+Totally 50004 active users  Mon Aug 21 2023 15:27:01 GMT+0530 (India Standard Time)
